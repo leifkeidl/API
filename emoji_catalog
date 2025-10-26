@@ -1,0 +1,25 @@
+{
+  "emojis": [
+      {
+          "emojiId": "1",
+          "name": "cat",
+          "category": "animals-nature",
+          "imageURL": "https://openmoji.org/data/color/svg/1F408.svg",
+          "description": "A domestic cat, beloved as a pet. Generally depicted as a light-orange cat with stripes, as a tabby, in full profile on all fours facing left, with its long tell held upright."
+        },
+         {
+          "emojiId": "2",
+          "name": "shark",
+          "category": "animals-nature",
+          "imageURL": "https://openmoji.org/data/color/svg/1F988.svg",
+          "description": "A shark, a large, stealthy fish with many teeth. Generally depicted as a gray shark in full profile facing left, as a tiger, bull, or great white shark hunting in the water. Shown with a white underside and three gills, its pointed nose and teeth-lined mouth curving down to a sharp dorsal fin and long, pointed tail."
+        },
+        {
+          "emojiId": "3",
+          "name": "peanuts",
+          "category": "food-drink",
+          "imageURL": "https://openmoji.org/data/color/svg/1F95C.svg",
+          "description": "The pod of the peanut, shown in its rounded, grooved, light-brown shell. Apple depicts a pair. Can also be used to reference the use of \"peanut\" as a term of affection for young children, or to describe an insignificant sum of money (\"it cost peanuts\")."
+        }
+  ]
+}
