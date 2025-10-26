@@ -1,25 +1,179 @@
 {
   "emojis": [
       {
-          "emojiId": "1",
+          "emojiId": 1,
           "name": "cat",
           "category": "animals-nature",
           "imageURL": "https://openmoji.org/data/color/svg/1F408.svg",
           "description": "A domestic cat, beloved as a pet. Generally depicted as a light-orange cat with stripes, as a tabby, in full profile on all fours facing left, with its long tell held upright."
         },
          {
-          "emojiId": "2",
+          "emojiId": 2,
           "name": "shark",
           "category": "animals-nature",
           "imageURL": "https://openmoji.org/data/color/svg/1F988.svg",
           "description": "A shark, a large, stealthy fish with many teeth. Generally depicted as a gray shark in full profile facing left, as a tiger, bull, or great white shark hunting in the water. Shown with a white underside and three gills, its pointed nose and teeth-lined mouth curving down to a sharp dorsal fin and long, pointed tail."
         },
         {
-          "emojiId": "3",
+          "emojiId": 3,
           "name": "peanuts",
           "category": "food-drink",
           "imageURL": "https://openmoji.org/data/color/svg/1F95C.svg",
           "description": "The pod of the peanut, shown in its rounded, grooved, light-brown shell. Apple depicts a pair. Can also be used to reference the use of \"peanut\" as a term of affection for young children, or to describe an insignificant sum of money (\"it cost peanuts\")."
+        },
+        {
+            "emojiId" : 4,
+            "name" : "onion",
+            "category" : "food-drink",
+            "imageURL": "https://openmoji.org/data/color/svg/1F9C5.svg",
+            "description": "A round yellow onion. Can be used to talk about cooking, eating, or crying. Sometimes used in metaphors about layers."
+        },
+        {
+            "emojiId" : 5,
+            "name" : "smiling face with smiling eyes",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F60A.svg",
+            "description": "A yellow face with smiling eyes and a broad, closed smile turning up to rosy cheeks. Often expresses genuine happiness and warm, positive feelings."
+        },
+        {
+            "emojiId" : 6,
+            "name" : "winking face",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F609.svg",
+            "description": "A yellow face with a slight smile or open mouth shown winking, usually with its left eye. May signal a joke, flirtation, hidden meaning, or general positivity."
+        },
+        {
+            "emojiId" : 7,
+            "name" : "melting face",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1FAE0.svg",
+            "description": "A yellow smiley face melting into a puddle. The eyes and mouth slip down the face, yet still maintain a distorted smile. "
+        },
+        {
+            "emojiId" : 8,
+            "name" : "upside-down face",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F643.svg",
+            "description": "A classic smiley, turned upside down. Implemented as a flipped version of 🙂 Slightly Smiling Face on most platforms."
+        },
+        {
+            "emojiId" : 9,
+            "name" : "thumbs up",
+            "category" : "people-body",
+            "imageURL": "https://openmoji.org/data/color/svg/1F44D.svg",
+            "description": "A thumbs-up gesture indicating approval. In certain contexts, the thumbs-up emoji can be construed as passive-aggressive or sarcastic. Despite this possible use, it remains a popular means of quickly and earnestly expressing approval."
+        },
+        {
+            "emojiId" : 10,
+            "name" : "index pointing at the viewer",
+            "category" : "people-body",
+            "imageURL": "https://openmoji.org/data/color/svg/1FAF5.svg",
+            "description": "A hand with the index finger pointing straight forward at the person viewing the emoji. Used to represent the word and concept of 'you,' the second-person singular and plural pronoun."
+        },
+        {
+            "emojiId" : 11,
+            "name" : "pea pod",
+            "category" : "food-drink",
+            "imageURL": "https://openmoji.org/data/color/svg/1FADB.svg",
+            "description": "A green pea pod split to reveal a row of peas inside. Can be used to talk about actual pea pods or peas, pods or vegetables in general, or the color green. May be used along with the phrase two peas in a pod."
+        },
+        {
+            "emojiId" : 12,
+            "name" : "ginger root",
+            "category" : "food-drink",
+            "imageURL": "https://openmoji.org/data/color/svg/1FADA.svg",
+            "description": "A segment of ginger root with light brown skin and a yellowish core. Can be used to talk about ginger root or roots in general. Can also be used to talk about spice, flavor, cooking, or baking. May also be also be used to talk redheads."
+        },
+        {
+            "emojiId" : 13,
+            "name" : "chestnut",
+            "category" : "food-drink",
+            "imageURL": "https://openmoji.org/data/color/svg/1F330.svg",
+            "description": "The reddish-brown, acorn-shaped chestnut, tapering to a sharp tip from its light brown base on most platforms. A popular roasted snack associated with autumn and Christmas. "
+        },
+        {
+            "emojiId" : 14,
+            "name" : "beans",
+            "category" : "food-drink",
+            "imageURL": "https://openmoji.org/data/color/svg/1FAD8.svg",
+            "description": "Beans, as used in cuisines around the world. May be used to talk about food, flatulence (caused by eating beans), or coffee beans. Also used to discuss money, counting, or a small amount of something. "
+        },
+        {
+            "emojiId" : 15,
+            "name" : "jack-o-lantern",
+            "category" : "activities",
+            "imageURL": "https://openmoji.org/data/color/svg/1F383.svg",
+            "description": "An orange pumpkin carved into the shape of a face and commonly known as a Jack-o’-lantern. The number and shape of its carved teeth vary by vendor."
+        },
+        {
+            "emojiId" : 16,
+            "name" : "Christmas tree",
+            "category" : "activities",
+            "imageURL": "https://openmoji.org/data/color/svg/1F384.svg",
+            "description": "A classic Christmas tree, an evergreen tree decorated with lights and ornaments to celebrate Christmas."
+        },
+        {
+            "emojiId" : 17,
+            "name" : "gorilla",
+            "category" : "animals-nature",
+            "imageURL": "https://openmoji.org/data/color/svg/1F98D.svg",
+            "description": "A gorilla, the powerful, black-haired great ape. Variously depicted in full profile on all fours facing left or as a friendly, cartoon-styled gorilla face looking straight ahead."
+        },
+        {
+            "emojiId" : 18,
+            "name" : "monkey",
+            "category" : "animals-nature",
+            "imageURL": "https://openmoji.org/data/color/svg/1F412.svg",
+            "description": "A monkey, a small primate with long limbs and tail for climbing trees. Generally depicted as a cartoon-styled, brown monkey with a cheeky facial expression, shown in full profile facing left, sitting on its hind legs with a long, curled tail and round ears."
+        },
+        {
+            "emojiId" : 19,
+            "name" : "peacock",
+            "category" : "animals-nature",
+            "imageURL": "https://openmoji.org/data/color/svg/1F99A.svg",
+            "description": "A peacock, the male bird that displays a large, fan-like, iridescent tale. Depicted facing forward standing on its legs, with a blue body and green tail feathers outspread."
+        },
+          {
+            "emojiId" : 20,
+            "name" : "flamingo",
+            "category" : "animals-nature",
+            "imageURL": "https://openmoji.org/data/color/svg/1F9A9.svg",
+            "description": "A flamingo, a waterbird with pink feathers and long neck and legs. Depicted as a flamingo in full profile facing left, standing on one leg, usually with a long, black beak."
+        },
+          {
+            "emojiId" : 21,
+            "name" : "smiling face with heart-eyes",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F60D.svg",
+            "description": "A yellow face with an open smile, sometimes showing teeth, and red, cartoon-styled hearts for eyes. Often conveys enthusiastic feelings of love, infatuation, and adoration, e.g., I love/am in love with this person or thing."
+        },
+          {
+            "emojiId" : 22,
+            "name" : "smiling face with hearts",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F970.svg",
+            "description": "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love. The placement of the hearts varies slightly by platform."
+        },
+          {
+            "emojiId" : 23,
+            "name" : "smiling face with halo",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F607.svg",
+            "description": "A face with smiling eyes, closed smile, and halo, usually blue, overhead. Often represents angels, prayers, and blessings. May also convey angelic behavior, e.g., doing good deeds."
+        },
+          {
+            "emojiId" : 24,
+            "name" : "smiling face with smiling eyes",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F60A.svg",
+            "description": "A yellow face with smiling eyes and a broad, closed smile turning up to rosy cheeks. Often expresses genuine happiness and warm, positive feelings."
+        },
+          {
+            "emojiId" : 25,
+            "name" : "face with tears of joy",
+            "category" : "smileys-emotion",
+            "imageURL": "https://openmoji.org/data/color/svg/1F602.svg",
+            "description": "A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard."
         }
   ]
 }
